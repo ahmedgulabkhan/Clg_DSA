@@ -1,2 +1,2 @@
 # Clg_DSA
-College Data Structures Algorithms
+College Data Structures and Algorithms
