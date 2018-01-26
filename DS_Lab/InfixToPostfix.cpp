@@ -22,6 +22,7 @@ class stack{
                 case '%':return 2;break;
                 case '^':return 3;break;
             }
+            return 0;
         }
 };
 int main(){
